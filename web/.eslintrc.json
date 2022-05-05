@@ -54,6 +54,7 @@
     "react/require-default-props": "off",
     "no-plusplus": "off",
     "no-param-reassign": "off",
-    "import/no-cycle": "off"
+    "import/no-cycle": "off",
+    "react/jsx-no-useless-fragment": "off"
   }
 }
